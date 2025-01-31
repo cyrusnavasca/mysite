@@ -1,11 +1,20 @@
 ---
-title: "mysite"
+title: Cyrus Navasca
+image: profile_pic.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 12em
+  links:
+    - text: LinkedIn
+      icon: LinkedIn
+      href: https://www.linkedin.com/in/cyrusnavasca/
+    - text: GitHub
+      icon: GitHub
+      href: https://github.com/cyrusnavasca
+    - text: Email
+      icon: Email
+      href: mailto:cyrusnavasca@ucsb.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+My name is Cyrus yup.
