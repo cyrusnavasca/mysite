@@ -104,7 +104,7 @@ can find club photos, workshop presentations and worksheets!
 ### Predicting Credit Card Default with Neural Networks
 In this project, I utilized PyTorch to construct a neural network which predicts
 credit card default among clients. I wrangled and transformed data to prepare
-data for analysis then enhanced model performance by 140% using various
+for analysis then enhanced model performance by 140% using various
 statistical techniques.
 
 Below are images of the final model's evaluation metrics. Specifics of my work 
