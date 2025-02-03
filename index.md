@@ -24,6 +24,8 @@ about:
       icon: envelope
       href: mailto:cyrusnavasca@ucsb.edu
 ---
+
+
 # About Me
 Hi! My name is Cyrus Navasca, and I am a third-year student studying Statistics,
 Data Science and Math at UC Santa Barbara. Through my comprehensive academic involvement, 

@@ -1,0 +1,43 @@
+---
+title: "Experiences"
+---
+
+### Data Analytics Intern @ Daily Nexus 
+The Daily Nexus is the official university newspaper for UC Santa Barbara. As a
+Data Analytics Intern, I am responsible for collecting, cleaning and reporting
+data. Specifically, my goal is to tell stories from messy data which are relevant
+to my surrounding community.
+
+Recently, I have completed my first piece at the Daily Nexus, which was an 
+analysis on the relationship between RateMyProfessor ratings and student GPAs
+at UC Santa Barbara. You can interact with the interactive dashboard below, or
+at this 
+[link](https://public.tableau.com/app/profile/cyrus.navasca/viz/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorratings/Dashboard1).
+
+<iframe src="https://public.tableau.com/views/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorratings/Dashboard1?:language=en-US&:display_count=n&:showVizHome=n&:embed=true" width="100%" height="600px"></iframe>
+
+
+### President @ UCSB Data Science Collaborative
+The UCSB Data Science Collaborative aims to make the field of data science 
+accessible to new students and non-majors. During my time as President, I 
+have mentored over 150 members and organized engaging networking events. I have
+also taught workshops in topics such as data visualization cleaning and 
+machine learning, equipped with engaging presentation slides, and practice 
+worksheets using sample datasets.
+
+Being able to support new and ambitious students has been an extremely fulfilling
+experience. Additionally, I have learned so much from by  breaking complex
+concepts into digestible pieces for members. This experience is one that has
+both reinforced my technical expertise and enhanced my interpersonal skills. 
+Our website can be found at this [link](https://dscollab.github.io/) where you
+can find club photos, workshop presentations and worksheets!
+
+<figure>
+  ![](dscollab_pic_2.jpeg){width=40% height=40%}
+  <figcaption>Speaker event and Q&A session with Dr. Rituparna Sen and Prof. Katie Coburn</figcaption>
+</figure>
+
+<figure>
+  ![](dscollab_pic1.jpg){width=50% height=50%}
+  <figcaption>Using Costco foods as an analogy for Python packages</figcaption>
+</figure>
