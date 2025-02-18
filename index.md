@@ -194,8 +194,6 @@ conducted feature selection, polynomial transformation and identification of
 unusual observations to obtain the final model. We ultimately found that carat,
 clarity and color had statistically significant effects on 2022 diamond prices.
 
-The project report can be found below, or at this [link](https://github.com/cyrusnavasca/diamond-price-analysis/blob/main/Diamonds_LR_Analysis.pdf).
-
 <a href="https://github.com/cyrusnavasca/diamond-price-analysis/blob/main/Diamonds_LR_Analysis.pdf" target="_blank" style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
                   font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
@@ -213,12 +211,12 @@ The project report can be found below, or at this [link](https://github.com/cyru
 
 ![](Diamonds_LR_Analysis.pdf){width=75% height=600px}
 
-## Interactive Dashboard of San Francisco Police Reports
+### Interactive Dashboard of San Francisco Police Reports
 This project utilized data from the city/county of San Francisco to create an
 interactive dashboard visualizing police reports from January 2018 to 
 August 2024. Over 800,000 observations of data were cleaned in Python in order
-to provide a comprehensive breakdown of the data. You can interact with the 
-dashboard by clicking the button below!
+to provide a user-friendly, comprehensive breakdown of the data. You can interact
+with the dashboard by clicking the button below!
 
 <a href="https://public.tableau.com/app/profile/cyrus.navasca/viz/InteractiveDashboardofSanFranciscoPoliceReports/InteractiveDashboardofSFPoliceReports" target="_blank" style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
@@ -238,15 +236,13 @@ dashboard by clicking the button below!
 <img src="crime_dashboard.png" alt="Dashboard Image" 
      style="width: 75%; height: 100%;">
 
-## Simulation Study of ANOVA
+### Simulation Study of ANOVA
 In this study, I analyzed the performance of the ANOVA test (F-test) under
 various conditions. Millions of simulations were run to identify situations
 where the ANOVA test performed well, and other situations where a permutation
-test may be better used.
-
-The full project report can be found below, and the GitHub repository
-containing both the report and simulations can be accessed at this
-[link](https://github.com/cyrusnavasca/simulation-study-anova).
+test may be better used. The full project can be found below which contains
+an in-depth description of the ANOVA test and visualization to support the 
+study.
 
 <a href="https://github.com/cyrusnavasca/simulation-study-anova" target="_blank" style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
@@ -265,11 +261,11 @@ containing both the report and simulations can be accessed at this
 
 ![](Simulation-Study-ANOVA.pdf){width=75% height=750px}
 
-## Predictive Modeling of Heart Disease
+### Predictive Modeling of Heart Disease
 In my introductory machine learning project, I implemented Random Forest and
 Logistic Regression models to predict heart disease among patients. This was my
-first dive into machine learning and sparked my interest in the field. I learned
-how to choose a model, conduct EDA, and evaluate models. 
+first dive into machine learning and taught me how to choose a model,
+conduct basic exploratory data analysis, and evaluate models. 
 
 <a href="https://github.com/cyrusnavasca/heart-disease-ml/blob/main/Heart_Disease_ML_Project.ipynb" style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
