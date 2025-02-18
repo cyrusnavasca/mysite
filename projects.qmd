@@ -2,43 +2,87 @@
 title: "Projects"
 ---
 
-### Predicting Credit Card Default with Neural Networks
+## Predicting Credit Card Default with Neural Networks
 In this project, I utilized PyTorch to construct a neural network which predicts
-credit card default among clients. I wrangled and transformed data to prepare 
-for analysis then enhanced model performance by 140% using various
-statistical techniques.
+credit card default among clients. Using various statistical techniques, model 
+performance was improved by 140%. The final model achieved a prediction accuracy
+of 78% and performed well according to other evaluation metrics such as ROC-AUC
+and precision/recall. 
 
-Below are images of the final model's evaluation metrics. Specifics of my work 
-can be found in my resume linked at the top of this site, and the code can be 
-found at this [link](https://github.com/cyrusnavasca/cc-default-prediction/blob/main/Predicting_CC_Default_NN.ipynb).
+The full project including code and visualizations can be found in the GitHub
+repository below.
 
-![](cc_proj_cm){width=50% height=50%}
+<a href="https://github.com/cyrusnavasca/cc-default-prediction/blob/main/Predicting_CC_Default_NN.ipynb" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Open Project GitHub
+    </button>
+</a>
 
-![](cc_proj_roc){width=50% height=50%}
+<style>
+    button:hover {
+        background-color: #0073e6; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
 
-![](cc_proj_prc){width=50% height=50%}
+<figure style="display: flex; justify-content: space-between;">
+  <img src="cc_proj_cm.png" alt="Confusion Matrix" style="width: 33%; height: auto; border-radius: 8px;">
+    <img src="cc_proj_roc.png" alt="ROC Curve" style="width: 33%; height: auto; border-radius: 8px;">
+    <img src="cc_proj_prc.png" alt="PRC Curve" style="width: 33%; height: auto; border-radius: 8px;">
+</figure>
 
-### 2022 Diamond Price Analysis
-For the following project, I implemented an in-depth regression analysis in
-order to examine what factors had an effect on diamond prices in 2022. I 
+## 2022 Diamond Price Analysis
+For the following project, I implemented an in-depth regression analysis to examine
+what factors had an effect on diamond prices in 2022. I 
 conducted feature selection, polynomial transformation and identification of
 unusual observations to obtain the final model. We ultimately found that carat,
 clarity and color had statistically significant effects on 2022 diamond prices.
 
 The project report can be found below, or at this [link](https://github.com/cyrusnavasca/diamond-price-analysis/blob/main/Diamonds_LR_Analysis.pdf).
 
-![](Diamonds_LR_Analysis.pdf){width=100% height=600px}
+<a href="https://github.com/cyrusnavasca/diamond-price-analysis/blob/main/Diamonds_LR_Analysis.pdf" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Open Project GitHub
+    </button>
+</a>
+
+<style>
+    button:hover {
+        background-color: #0073e6; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
+
+![](Diamonds_LR_Analysis.pdf){width=75% height=600px}
 
 ## Interactive Dashboard of San Francisco Police Reports
 This project utilized data from the city/county of San Francisco to create an
 interactive dashboard visualizing police reports from January 2018 to 
 August 2024. Over 800,000 observations of data were cleaned in Python in order
-to provide a comprehensive breakdown of the data.
+to provide a comprehensive breakdown of the data. You can interact with the 
+dashboard by clicking the button below!
 
-You can interact with the dashboard below, or at the following
-[link](https://public.tableau.com/app/profile/cyrus.navasca/viz/InteractiveDashboardofSanFranciscoPoliceReports/InteractiveDashboardofSFPoliceReports).
+<a href="https://public.tableau.com/app/profile/cyrus.navasca/viz/InteractiveDashboardofSanFranciscoPoliceReports/InteractiveDashboardofSFPoliceReports" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        View Dashboard
+    </button>
+</a>
 
-<iframe src="https://public.tableau.com/views/InteractiveDashboardofSanFranciscoPoliceReports/InteractiveDashboardofSFPoliceReports?:language=en-US&:display_count=n&:showVizHome=n&:embed=true" width="100%" height="600px"></iframe>
+<style>
+    button:hover {
+        background-color: #0073e6; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
+
+<img src="crime_dashboard.png" alt="Dashboard Image" 
+     style="width: 75%; height: 100%;">
 
 ## Simulation Study of ANOVA
 In this study, I analyzed the performance of the ANOVA test (F-test) under
@@ -50,7 +94,22 @@ The full project report can be found below, and the GitHub repository
 containing both the report and simulations can be accessed at this
 [link](https://github.com/cyrusnavasca/simulation-study-anova).
 
-![](Simulation-Study-ANOVA.pdf){width=100% height=750px}
+<a href="https://github.com/cyrusnavasca/simulation-study-anova" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Open Project GitHub
+    </button>
+</a>
+
+<style>
+    button:hover {
+        background-color: #0073e6; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
+
+![](Simulation-Study-ANOVA.pdf){width=75% height=750px}
 
 ## Predictive Modeling of Heart Disease
 In my introductory machine learning project, I implemented Random Forest and
@@ -58,17 +117,27 @@ Logistic Regression models to predict heart disease among patients. This was my
 first dive into machine learning and sparked my interest in the field. I learned
 how to choose a model, conduct EDA, and evaluate models. 
 
-Found below are some the visual evaluation metrics of both models, and the code 
-can be found at this [link](https://github.com/cyrusnavasca/heart-disease-ml/blob/main/Heart_Disease_ML_Project.ipynb).
+<a href="https://github.com/cyrusnavasca/heart-disease-ml/blob/main/Heart_Disease_ML_Project.ipynb" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Open Project GitHub
+    </button>
+</a>
 
-![](hd_proj_lr_roc){width=50% height=50%}
+<style>
+    button:hover {
+        background-color: #0073e6; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
 
-![](hd_proj_lr_prc){width=50% height=50%}
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="hd_proj_lr_roc.png" alt="Logistic Regression ROC" style="width: 40%; height: auto; border-radius: 8px;">
+  <img src="hd_proj_lr_prc.png" alt="Logistic Regression PRC" style="width: 40%; height: auto; border-radius: 8px;">
+</div>
 
-![](hd_proj_rf_roc){width=50% height=50%}
-
-![](hd_proj_rf_prc){width=50% height=50%}
-
-![](hd_proj_mse){width=35% height=35%}
-
-
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="hd_proj_rf_roc.png" alt="Random Forest ROC" style="width: 40%; height: auto; border-radius: 8px;">
+  <img src="hd_proj_rf_prc.png" alt="Random Forest PRC" style="width: 40%; height: auto; border-radius: 8px;">
+</div>

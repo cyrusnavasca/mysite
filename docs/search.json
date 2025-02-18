@@ -10,8 +10,8 @@
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Cyrus Navasca",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Santa Barbara | Santa Barbara, CA\nB.S. in Statistics & Data Science, Minor in Mathematics\n3.77 GPA | Dean’s Honor Roll"
+    "section": "📚 Education",
+    "text": "📚 Education\nUniversity of California, Santa Barbara | Santa Barbara, CA\nB.S. in Statistics & Data Science, Minor in Mathematics\n3.77 GPA | Dean’s Honor Roll"
   },
   {
     "objectID": "about.html",
@@ -32,56 +32,56 @@
     "href": "index.html#interactive-dashboard-of-san-francisco-police-reports",
     "title": "Cyrus Navasca",
     "section": "Interactive Dashboard of San Francisco Police Reports",
-    "text": "Interactive Dashboard of San Francisco Police Reports\nThis project utilized data from the city/county of San Francisco to create an interactive dashboard visualizing police reports from January 2018 to August 2024. Over 800,000 observations of data were cleaned in Python in order to provide a comprehensive breakdown of the data.\nYou can interact with the dashboard below, or at the following link."
+    "text": "Interactive Dashboard of San Francisco Police Reports\nThis project utilized data from the city/county of San Francisco to create an interactive dashboard visualizing police reports from January 2018 to August 2024. Over 800,000 observations of data were cleaned in Python in order to provide a comprehensive breakdown of the data. You can interact with the dashboard by clicking the button below!\n  View Dashboard"
   },
   {
     "objectID": "index.html#predictive-modeling-of-heart-disease",
     "href": "index.html#predictive-modeling-of-heart-disease",
     "title": "Cyrus Navasca",
     "section": "Predictive Modeling of Heart Disease",
-    "text": "Predictive Modeling of Heart Disease\nIn my introductory machine learning project, I implemented Random Forest and Logistic Regression models to predict heart disease among patients. This was my first dive into machine learning and sparked my interest in the field. I learned how to choose a model, conduct EDA, and evaluate models.\nFound below are some the visual evaluation metrics of both models, and the code can be found at this link."
+    "text": "Predictive Modeling of Heart Disease\nIn my introductory machine learning project, I implemented Random Forest and Logistic Regression models to predict heart disease among patients. This was my first dive into machine learning and sparked my interest in the field. I learned how to choose a model, conduct EDA, and evaluate models.\n  Open Project GitHub"
   },
   {
     "objectID": "index.html#simulation-study-of-anova",
     "href": "index.html#simulation-study-of-anova",
     "title": "Cyrus Navasca",
     "section": "Simulation Study of ANOVA",
-    "text": "Simulation Study of ANOVA\nIn this study, I analyzed the performance of the ANOVA test (F-test) under various conditions. Millions of simulations were run to identify situations where the ANOVA test performed well, and other situations where a permutation test may be better used.\nThe full project report can be found below, and the GitHub repository containing both the report and simulations can be accessed at this link."
+    "text": "Simulation Study of ANOVA\nIn this study, I analyzed the performance of the ANOVA test (F-test) under various conditions. Millions of simulations were run to identify situations where the ANOVA test performed well, and other situations where a permutation test may be better used.\nThe full project report can be found below, and the GitHub repository containing both the report and simulations can be accessed at this link.\n  Open Project GitHub"
   },
   {
     "objectID": "experiences.html",
     "href": "experiences.html",
     "title": "Experiences",
     "section": "",
-    "text": "Data Analytics Intern @ Daily Nexus\nThe Daily Nexus is the official university newspaper for UC Santa Barbara. As a Data Analytics Intern, I am responsible for collecting, cleaning and reporting data. Specifically, my goal is to tell stories from messy data which are relevant to my surrounding community.\nRecently, I have completed my first piece at the Daily Nexus, which was an analysis on the relationship between RateMyProfessor ratings and student GPAs at UC Santa Barbara. You can interact with the interactive dashboard below, or at this link.\n\n\n\n\n\nPresident @ UCSB Data Science Collaborative\nThe UCSB Data Science Collaborative aims to make the field of data science accessible to new students and non-majors. During my time as President, I have mentored over 150 members and organized engaging networking events. I have also taught workshops in topics such as data visualization cleaning and machine learning, equipped with engaging presentation slides, and practice worksheets using sample datasets.\nBeing able to support new and ambitious students has been an extremely fulfilling experience. Additionally, I have learned so much from by breaking complex concepts into digestible pieces for members. This experience is one that has both reinforced my technical expertise and enhanced my interpersonal skills. Our website can be found at this link where you can find club photos, workshop presentations and worksheets!\n\n\n\nSpeaker event and Q&A session with Dr. Rituparna Sen and Prof. Katie Coburn\n\n\n\n\n\nUsing Costco foods as an analogy for Python packages"
+    "text": "Data Analytics Intern @ Daily Nexus\nDaily Nexus is the official university newspaper for UC Santa Barbara. As a Data Analytics Intern, I am responsible for collecting, cleaning and reporting data. Specifically, my goal is to tell stories from messy data which are relevant to my surrounding community.\nRecently, I have completed my first piece at the Daily Nexus, which was an analysis on the relationship between Rate My Professors ratings and student GPAs at UC Santa Barbara. To interact with my dashboard, click the button below!\n  View Dashboard  \n\n\n\nPresident @ UCSB Data Science Collaborative\nThe UCSB Data Science Collaborative aims to make the field of data science accessible to new students and non-majors. During my time as President, I have mentored over 150 members and organized engaging networking events. I have also taught workshops in topics such as data visualization cleaning and machine learning, equipped with engaging presentation slides, and practice worksheets using sample datasets.\nBeing able to support new and ambitious students has been an extremely fulfilling experience. Additionally, I have learned so much from by breaking complex concepts into digestible pieces for members. This experience is one that has both reinforced my technical expertise and enhanced my interpersonal skills. Our website can be found below where you can find club photos, workshop presentations and worksheets!\n  Visit UCSB Data Science Collaborative"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "In this project, I utilized PyTorch to construct a neural network which predicts credit card default among clients. I wrangled and transformed data to prepare for analysis then enhanced model performance by 140% using various statistical techniques.\nBelow are images of the final model’s evaluation metrics. Specifics of my work can be found in my resume linked at the top of this site, and the code can be found at this link."
+    "text": "In this project, I utilized PyTorch to construct a neural network which predicts credit card default among clients. Using various statistical techniques, model performance was improved by 140%. The final model achieved a prediction accuracy of 78% and performed well according to other evaluation metrics such as ROC-AUC and precision/recall.\nThe full project including code and visualizations can be found in the GitHub repository below.\n  Open Project GitHub"
   },
   {
     "objectID": "projects.html#interactive-dashboard-of-san-francisco-police-reports",
     "href": "projects.html#interactive-dashboard-of-san-francisco-police-reports",
     "title": "Projects",
     "section": "Interactive Dashboard of San Francisco Police Reports",
-    "text": "Interactive Dashboard of San Francisco Police Reports\nThis project utilized data from the city/county of San Francisco to create an interactive dashboard visualizing police reports from January 2018 to August 2024. Over 800,000 observations of data were cleaned in Python in order to provide a comprehensive breakdown of the data.\nYou can interact with the dashboard below, or at the following link."
+    "text": "Interactive Dashboard of San Francisco Police Reports\nThis project utilized data from the city/county of San Francisco to create an interactive dashboard visualizing police reports from January 2018 to August 2024. Over 800,000 observations of data were cleaned in Python in order to provide a comprehensive breakdown of the data. You can interact with the dashboard by clicking the button below!\n  View Dashboard"
   },
   {
     "objectID": "projects.html#simulation-study-of-anova",
     "href": "projects.html#simulation-study-of-anova",
     "title": "Projects",
     "section": "Simulation Study of ANOVA",
-    "text": "Simulation Study of ANOVA\nIn this study, I analyzed the performance of the ANOVA test (F-test) under various conditions. Millions of simulations were run to identify situations where the ANOVA test performed well, and other situations where a permutation test may be better used.\nThe full project report can be found below, and the GitHub repository containing both the report and simulations can be accessed at this link."
+    "text": "Simulation Study of ANOVA\nIn this study, I analyzed the performance of the ANOVA test (F-test) under various conditions. Millions of simulations were run to identify situations where the ANOVA test performed well, and other situations where a permutation test may be better used.\nThe full project report can be found below, and the GitHub repository containing both the report and simulations can be accessed at this link.\n  Open Project GitHub"
   },
   {
     "objectID": "projects.html#predictive-modeling-of-heart-disease",
     "href": "projects.html#predictive-modeling-of-heart-disease",
     "title": "Projects",
     "section": "Predictive Modeling of Heart Disease",
-    "text": "Predictive Modeling of Heart Disease\nIn my introductory machine learning project, I implemented Random Forest and Logistic Regression models to predict heart disease among patients. This was my first dive into machine learning and sparked my interest in the field. I learned how to choose a model, conduct EDA, and evaluate models.\nFound below are some the visual evaluation metrics of both models, and the code can be found at this link."
+    "text": "Predictive Modeling of Heart Disease\nIn my introductory machine learning project, I implemented Random Forest and Logistic Regression models to predict heart disease among patients. This was my first dive into machine learning and sparked my interest in the field. I learned how to choose a model, conduct EDA, and evaluate models.\n  Open Project GitHub"
   },
   {
     "objectID": "resume.html",
@@ -89,5 +89,47 @@
     "title": "Resume",
     "section": "",
     "text": "Download My Resume"
+  },
+  {
+    "objectID": "index.html#experiences",
+    "href": "index.html#experiences",
+    "title": "Cyrus Navasca",
+    "section": "💼 Experiences",
+    "text": "💼 Experiences\n\nData Analytics Intern @ Daily Nexus\nDaily Nexus is the official university newspaper for UC Santa Barbara. As a Data Analytics Intern, I am responsible for collecting, cleaning and reporting data. Specifically, my goal is to tell stories from messy data which are relevant to my surrounding community.\nRecently, I have completed my first piece at the Daily Nexus, which was an analysis on the relationship between Rate My Professors ratings and student GPAs at UC Santa Barbara. To interact with my dashboard, click the button below!\n  View Dashboard  \n\n\n\nPresident @ UCSB Data Science Collaborative\nThe UCSB Data Science Collaborative aims to make the field of data science accessible to new students and non-majors. During my time as President, I have mentored over 150 members and organized engaging networking events. I have also taught workshops in topics such as data visualization cleaning and machine learning, equipped with engaging presentation slides, and practice worksheets using sample datasets.\nBeing able to support new and ambitious students has been an extremely fulfilling experience. Additionally, I have learned so much from by breaking complex concepts into digestible pieces for members. This experience is one that has both reinforced my technical expertise and enhanced my interpersonal skills. Our website can be found below where you can find club photos, workshop presentations and worksheets!\n  Visit UCSB Data Science Collaborative"
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "Cyrus Navasca",
+    "section": "📝 Resume",
+    "text": "📝 Resume\n  Download My Resume"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Cyrus Navasca",
+    "section": "📊 Projects",
+    "text": "📊 Projects\n\nPredicting Credit Card Default with Neural Networks\nIn this project, I utilized PyTorch to construct a neural network which predicts credit card default among clients. Using various statistical techniques, model performance was improved by 140%. The final model achieved a prediction accuracy of 78% and performed well according to other evaluation metrics such as ROC-AUC and precision/recall.\nThe full project including code and visualizations can be found in the GitHub repository below.\n  Open Project GitHub  \n\n\n  \n\n\n\n2022 Diamond Price Analysis\nFor the following project, I implemented an in-depth regression analysis to examine what factors had an effect on diamond prices in 2022. I conducted feature selection, polynomial transformation and identification of unusual observations to obtain the final model. We ultimately found that carat, clarity and color had statistically significant effects on 2022 diamond prices.\nThe project report can be found below, or at this link.\n  Open Project GitHub"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Cyrus Navasca",
+    "section": "🤠 About Me",
+    "text": "🤠 About Me\nHi! My name is Cyrus Navasca, and I am a third-year student studying Statistics, Data Science and Math at UC Santa Barbara. Through my comprehensive academic involvement, as well as my experiences as a Data Analytics Intern for Daily Nexus and as President of the UCSB Data Science Collaborative, I have built a strong foundation of both technical and interpersonal skills that I am excited to expand upon!\nI have become proficient in Python, R, SQL and Tableau through various projects which made me fall in love with the process of data analysis, visualization and machine learning. Outside of work, I like watching football (go Niners!), playing card games, and trying new coffee shops.\nUsing data to tackle real-world problems is something that I am extremely looking forward to as I continue my journey in this field. My relentless work ethic and energetic personality are qualities that will allow me to succeed, no matter the setting, and I am ecstatic to apply myself in a team environment!\nI can be reached at cyrusnavasca@ucsb.edu, feel free to reach out and I am excited to hear from you all!"
+  },
+  {
+    "objectID": "projects.html#president-ucsb-data-science-collaborative",
+    "href": "projects.html#president-ucsb-data-science-collaborative",
+    "title": "Projects",
+    "section": "President @ UCSB Data Science Collaborative",
+    "text": "President @ UCSB Data Science Collaborative\nThe UCSB Data Science Collaborative aims to make the field of data science accessible to new students and non-majors. During my time as President, I have mentored over 150 members and organized engaging networking events. I have also taught workshops in topics such as data visualization cleaning and machine learning, equipped with engaging presentation slides, and practice worksheets using sample datasets.\nBeing able to support new and ambitious students has been an extremely fulfilling experience. Additionally, I have learned so much from by breaking complex concepts into digestible pieces for members. This experience is one that has both reinforced my technical expertise and enhanced my interpersonal skills. Our website can be found below where you can find club photos, workshop presentations and worksheets!\n  Visit UCSB Data Science Collaborative"
+  },
+  {
+    "objectID": "projects.html#diamond-price-analysis",
+    "href": "projects.html#diamond-price-analysis",
+    "title": "Projects",
+    "section": "2022 Diamond Price Analysis",
+    "text": "2022 Diamond Price Analysis\nFor the following project, I implemented an in-depth regression analysis to examine what factors had an effect on diamond prices in 2022. I conducted feature selection, polynomial transformation and identification of unusual observations to obtain the final model. We ultimately found that carat, clarity and color had statistically significant effects on 2022 diamond prices.\nThe project report can be found below, or at this link.\n  Open Project GitHub"
   }
 ]

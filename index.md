@@ -1,5 +1,5 @@
 ---
-title: Cyrus Navasca
+title: "**Cyrus Navasca**"
 format: 
   html:
     html-math-method: katex
@@ -7,12 +7,12 @@ format:
 execute:
   echo:: false
   
-image: profile_pic.jpeg
+image: casual_pic (1).png
 toc: true
 about: 
-  template: solana
-  image-shape: round 
-  image-width: 12em
+  template: jolla
+  image-shape: rectangle 
+  image-width: 35em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -26,7 +26,14 @@ about:
 ---
 
 
-# About Me
+<header class="social-icons">
+  <a href="https://www.linkedin.com/in/cyrusnavasca/" target="_blank"><img src="linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px; margin-right: 20px;"></a>
+  <a href="https://github.com/cyrusnavasca" target="_blank"><img src="github.png" alt="GitHub" style="width: 55px; height: 55px; margin-right: 20px;"></a>
+  <a href="mailto:cyrusnavasca@ucsb.edu"><img src="gmail.png" alt="Email" style="width: 60px; height: 60px;"></a>
+</header>
+
+## 🤠 About Me
+
 Hi! My name is Cyrus Navasca, and I am a third-year student studying Statistics,
 Data Science and Math at UC Santa Barbara. Through my comprehensive academic involvement, 
 as well as  my experiences as a Data Analytics Intern for Daily Nexus and as President 
@@ -46,33 +53,54 @@ matter the setting, and I am ecstatic to apply myself in a team environment!
 I can be reached at [cyrusnavasca@ucsb.edu](mailto:cyrusnavasca@ucsb.edu), feel 
 free to reach out and I am excited to hear from you all!
 
-# Resume
-[Download My Resume](Cyrus Navasca Resume 2_2025.docx.pdf){download="Cyrus Navasca Resume 2_2025.docx.pdf"}
+## 📝 Resume
+<a href="Cyrus Navasca Resume 2_2025.docx.pdf" download="Cyrus Navasca Resume 2_2025.docx.pdf" 
+   style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; 
+                  transition: 0.3s;">
+        Download My Resume
+    </button>
+</a>
 
-![](Cyrus Navasca Resume 2_2025.docx.pdf){width=100% height=750px}
+<style>
+    button:hover {
+        background-color: #005bb5; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
 
-# Education 
+![](Cyrus Navasca Resume 2_2025.docx.pdf){width=75% height=600px}
+
+## 📚 Education 
 University of California, Santa Barbara | Santa Barbara, CA
 
 B.S. in Statistics & Data Science, Minor in Mathematics 
 
 3.77 GPA | Dean's Honor Roll
 
-# Experiences
+## 💼 Experiences
 ### Data Analytics Intern @ Daily Nexus 
-The Daily Nexus is the official university newspaper for UC Santa Barbara. As a
+Daily Nexus is the official university newspaper for UC Santa Barbara. As a
 Data Analytics Intern, I am responsible for collecting, cleaning and reporting
 data. Specifically, my goal is to tell stories from messy data which are relevant
 to my surrounding community.
 
 Recently, I have completed my first piece at the Daily Nexus, which was an 
-analysis on the relationship between RateMyProfessor ratings and student GPAs
-at UC Santa Barbara. You can interact with the interactive dashboard below, or
-at this 
-[link](https://public.tableau.com/app/profile/cyrus.navasca/viz/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorratings/Dashboard1).
+analysis on the relationship between Rate My Professors ratings and student GPAs
+at UC Santa Barbara. To interact with my dashboard, click the button below!
 
-<iframe src="https://public.tableau.com/views/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorratings/Dashboard1?:language=en-US&:display_count=n&:showVizHome=n&:embed=true" width="100%" height="600px"></iframe>
+<a href="https://public.tableau.com/views/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorratings/Dashboard1" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;" 
+            onmouseover="this.style.backgroundColor='#005bb5';" 
+            onmouseout="this.style.backgroundColor='#0073e6';">
+        View Dashboard
+    </button>
+</a>
 
+<img src="rmp_dashboard_image.png" alt="Dashboard Image" 
+     style="width: 75%; height: 100%; border: 2px solid #D3D3D3; border-radius: 8px;">
 
 ### President @ UCSB Data Science Collaborative
 The UCSB Data Science Collaborative aims to make the field of data science 
@@ -86,58 +114,111 @@ Being able to support new and ambitious students has been an extremely fulfillin
 experience. Additionally, I have learned so much from by  breaking complex
 concepts into digestible pieces for members. This experience is one that has
 both reinforced my technical expertise and enhanced my interpersonal skills. 
-Our website can be found at this [link](https://dscollab.github.io/) where you
-can find club photos, workshop presentations and worksheets!
+Our website can be found below where you can find club photos, workshop 
+presentations and worksheets!
 
-<figure>
-  ![](dscollab_pic_2.jpeg){width=40% height=40%}
-  <figcaption>Speaker event and Q&A session with Dr. Rituparna Sen and Prof. Katie Coburn</figcaption>
-</figure>
+<a href="https://dscollab.github.io/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Visit UCSB Data Science Collaborative
+    </button>
+</a>
 
-<figure>
-  ![](dscollab_pic1.jpg){width=50% height=50%}
-  <figcaption>Using Costco foods as an analogy for Python packages</figcaption>
-</figure>
+<style>
+    button:hover {
+        background-color: #005bb5; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
 
+<div style="display: flex; justify-content: space-between; gap: 30px;">
+  <img src="dscollab_pic_2.jpeg" alt="DSCollab Image 2" style="width: 40%; height: auto; border-radius: 8px;">
+  <img src="dscollab_pic1.jpg" alt="DSCollab Image 1" style="width: 40%; height: auto; border-radius: 8px;">
+</div>
 
-# Projects
+## 📊 Projects
 ### Predicting Credit Card Default with Neural Networks
 In this project, I utilized PyTorch to construct a neural network which predicts
-credit card default among clients. I wrangled and transformed data to prepare
-for analysis then enhanced model performance by 140% using various
-statistical techniques.
+credit card default among clients. Using various statistical techniques, model 
+performance was improved by 140%. The final model achieved a prediction accuracy
+of 78% and performed well according to other evaluation metrics such as ROC-AUC
+and precision/recall. 
 
-Below are images of the final model's evaluation metrics. Specifics of my work 
-can be found in my resume linked at the top of this site, and the code can be 
-found at this [link](https://github.com/cyrusnavasca/cc-default-prediction/blob/main/Predicting_CC_Default_NN.ipynb).
+The full project including code and visualizations can be found in the GitHub
+repository below.
 
-![](cc_proj_cm){width=50% height=50%}
+<a href="https://github.com/cyrusnavasca/cc-default-prediction/blob/main/Predicting_CC_Default_NN.ipynb" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Open Project GitHub
+    </button>
+</a>
 
-![](cc_proj_roc){width=50% height=50%}
+<style>
+    button:hover {
+        background-color: #0073e6; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
 
-![](cc_proj_prc){width=50% height=50%}
+<figure style="display: flex; justify-content: space-between;">
+  <img src="cc_proj_cm.png" alt="Confusion Matrix" style="width: 33%; height: auto; border-radius: 8px;">
+    <img src="cc_proj_roc.png" alt="ROC Curve" style="width: 33%; height: auto; border-radius: 8px;">
+    <img src="cc_proj_prc.png" alt="PRC Curve" style="width: 33%; height: auto; border-radius: 8px;">
+</figure>
 
 ### 2022 Diamond Price Analysis
-For the following project, I implemented an in-depth regression analysis in
-order to examine what factors had an effect on diamond prices in 2022. I 
+For the following project, I implemented an in-depth regression analysis to examine
+what factors had an effect on diamond prices in 2022. I 
 conducted feature selection, polynomial transformation and identification of
 unusual observations to obtain the final model. We ultimately found that carat,
 clarity and color had statistically significant effects on 2022 diamond prices.
 
 The project report can be found below, or at this [link](https://github.com/cyrusnavasca/diamond-price-analysis/blob/main/Diamonds_LR_Analysis.pdf).
 
-![](Diamonds_LR_Analysis.pdf){width=100% height=600px}
+<a href="https://github.com/cyrusnavasca/diamond-price-analysis/blob/main/Diamonds_LR_Analysis.pdf" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Open Project GitHub
+    </button>
+</a>
+
+<style>
+    button:hover {
+        background-color: #0073e6; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
+
+![](Diamonds_LR_Analysis.pdf){width=75% height=600px}
 
 ## Interactive Dashboard of San Francisco Police Reports
 This project utilized data from the city/county of San Francisco to create an
 interactive dashboard visualizing police reports from January 2018 to 
 August 2024. Over 800,000 observations of data were cleaned in Python in order
-to provide a comprehensive breakdown of the data.
+to provide a comprehensive breakdown of the data. You can interact with the 
+dashboard by clicking the button below!
 
-You can interact with the dashboard below, or at the following
-[link](https://public.tableau.com/app/profile/cyrus.navasca/viz/InteractiveDashboardofSanFranciscoPoliceReports/InteractiveDashboardofSFPoliceReports).
+<a href="https://public.tableau.com/app/profile/cyrus.navasca/viz/InteractiveDashboardofSanFranciscoPoliceReports/InteractiveDashboardofSFPoliceReports" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        View Dashboard
+    </button>
+</a>
 
-<iframe src="https://public.tableau.com/views/InteractiveDashboardofSanFranciscoPoliceReports/InteractiveDashboardofSFPoliceReports?:language=en-US&:display_count=n&:showVizHome=n&:embed=true" width="100%" height="600px"></iframe>
+<style>
+    button:hover {
+        background-color: #0073e6; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
+
+<img src="crime_dashboard.png" alt="Dashboard Image" 
+     style="width: 75%; height: 100%;">
 
 ## Simulation Study of ANOVA
 In this study, I analyzed the performance of the ANOVA test (F-test) under
@@ -149,7 +230,22 @@ The full project report can be found below, and the GitHub repository
 containing both the report and simulations can be accessed at this
 [link](https://github.com/cyrusnavasca/simulation-study-anova).
 
-![](Simulation-Study-ANOVA.pdf){width=100% height=750px}
+<a href="https://github.com/cyrusnavasca/simulation-study-anova" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Open Project GitHub
+    </button>
+</a>
+
+<style>
+    button:hover {
+        background-color: #0073e6; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
+
+![](Simulation-Study-ANOVA.pdf){width=75% height=750px}
 
 ## Predictive Modeling of Heart Disease
 In my introductory machine learning project, I implemented Random Forest and
@@ -157,18 +253,32 @@ Logistic Regression models to predict heart disease among patients. This was my
 first dive into machine learning and sparked my interest in the field. I learned
 how to choose a model, conduct EDA, and evaluate models. 
 
-Found below are some the visual evaluation metrics of both models, and the code 
-can be found at this [link](https://github.com/cyrusnavasca/heart-disease-ml/blob/main/Heart_Disease_ML_Project.ipynb).
+<a href="https://github.com/cyrusnavasca/heart-disease-ml/blob/main/Heart_Disease_ML_Project.ipynb" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Open Project GitHub
+    </button>
+</a>
 
-![](hd_proj_lr_roc){width=50% height=50%}
+<style>
+    button:hover {
+        background-color: #0073e6; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
 
-![](hd_proj_lr_prc){width=50% height=50%}
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="hd_proj_lr_roc.png" alt="Logistic Regression ROC" style="width: 40%; height: auto; border-radius: 8px;">
+  <img src="hd_proj_lr_prc.png" alt="Logistic Regression PRC" style="width: 40%; height: auto; border-radius: 8px;">
+</div>
 
-![](hd_proj_rf_roc){width=50% height=50%}
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="hd_proj_rf_roc.png" alt="Random Forest ROC" style="width: 40%; height: auto; border-radius: 8px;">
+  <img src="hd_proj_rf_prc.png" alt="Random Forest PRC" style="width: 40%; height: auto; border-radius: 8px;">
+</div>
 
-![](hd_proj_rf_prc){width=50% height=50%}
 
-![](hd_proj_mse){width=35% height=35%}
 
 
 

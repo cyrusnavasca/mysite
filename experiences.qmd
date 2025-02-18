@@ -3,19 +3,25 @@ title: "Experiences"
 ---
 
 ### Data Analytics Intern @ Daily Nexus 
-The Daily Nexus is the official university newspaper for UC Santa Barbara. As a
+Daily Nexus is the official university newspaper for UC Santa Barbara. As a
 Data Analytics Intern, I am responsible for collecting, cleaning and reporting
 data. Specifically, my goal is to tell stories from messy data which are relevant
 to my surrounding community.
 
 Recently, I have completed my first piece at the Daily Nexus, which was an 
-analysis on the relationship between RateMyProfessor ratings and student GPAs
-at UC Santa Barbara. You can interact with the interactive dashboard below, or
-at this 
-[link](https://public.tableau.com/app/profile/cyrus.navasca/viz/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorratings/Dashboard1).
+analysis on the relationship between Rate My Professors ratings and student GPAs
+at UC Santa Barbara. To interact with my dashboard, click the button below!
 
-<iframe src="https://public.tableau.com/views/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorratings/Dashboard1?:language=en-US&:display_count=n&:showVizHome=n&:embed=true" width="100%" height="600px"></iframe>
+<a href="https://public.tableau.com/views/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorratings/Dashboard1" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;" 
+            onmouseover="this.style.backgroundColor='#005bb5';" 
+            onmouseout="this.style.backgroundColor='#0073e6';">
+        View Dashboard
+    </button>
+</a>
 
+<img src="rmp_dashboard_image.png" alt="Dashboard Image" 
+     style="width: 100%; height: 100%; border: 2px solid #D3D3D3; border-radius: 8px;">
 
 ### President @ UCSB Data Science Collaborative
 The UCSB Data Science Collaborative aims to make the field of data science 
@@ -29,15 +35,25 @@ Being able to support new and ambitious students has been an extremely fulfillin
 experience. Additionally, I have learned so much from by  breaking complex
 concepts into digestible pieces for members. This experience is one that has
 both reinforced my technical expertise and enhanced my interpersonal skills. 
-Our website can be found at this [link](https://dscollab.github.io/) where you
-can find club photos, workshop presentations and worksheets!
+Our website can be found below where you can find club photos, workshop 
+presentations and worksheets!
 
-<figure>
-  ![](dscollab_pic_2.jpeg){width=40% height=40%}
-  <figcaption>Speaker event and Q&A session with Dr. Rituparna Sen and Prof. Katie Coburn</figcaption>
-</figure>
+<a href="https://dscollab.github.io/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Visit UCSB Data Science Collaborative
+    </button>
+</a>
 
-<figure>
-  ![](dscollab_pic1.jpg){width=50% height=50%}
-  <figcaption>Using Costco foods as an analogy for Python packages</figcaption>
-</figure>
+<style>
+    button:hover {
+        background-color: #005bb5; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
+
+<div style="display: flex; justify-content: space-between; gap: 30px;">
+  <img src="dscollab_pic_2.jpeg" alt="DSCollab Image 2" style="width: 40%; height: auto; border-radius: 8px;">
+  <img src="dscollab_pic1.jpg" alt="DSCollab Image 1" style="width: 40%; height: auto; border-radius: 8px;">
+</div>
