@@ -11,8 +11,8 @@ image: profile_pic.jpeg
 toc: true
 about: 
   template: jolla
-  image-shape: rounded
-  image-width: 35em
+  image-shape: round
+  image-width: 15em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -27,10 +27,28 @@ about:
 
 
 <header class="social-icons">
-  <a href="https://www.linkedin.com/in/cyrusnavasca/" target="_blank"><img src="linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px; margin-right: 20px;"></a>
-  <a href="https://github.com/cyrusnavasca" target="_blank"><img src="github.png" alt="GitHub" style="width: 55px; height: 55px; margin-right: 20px;"></a>
-  <a href="mailto:cyrusnavasca@ucsb.edu"><img src="gmail.png" alt="Email" style="width: 60px; height: 60px;"></a>
+  <a href="https://www.linkedin.com/in/cyrusnavasca/" target="_blank">
+    <img src="linkedin.png" alt="LinkedIn" class="social-icon" style="width: 50px; height: 50px; margin-right: 20px;">
+  </a>
+  <a href="https://github.com/cyrusnavasca" target="_blank">
+    <img src="github.png" alt="GitHub" class="social-icon" style="width: 55px; height: 55px; margin-right: 20px;">
+  </a>
+  <a href="mailto:cyrusnavasca@ucsb.edu">
+    <img src="gmail.png" alt="Email" class="social-icon" style="width: 60px; height: 60px;">
+  </a>
 </header>
+
+<style>
+  .social-icon {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .social-icon:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+</style>
+
 
 ## 🤠 About Me
 
