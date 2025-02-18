@@ -7,11 +7,11 @@ format:
 execute:
   echo:: false
   
-image: casual_pic (1).png
+image: profile_pic.jpeg
 toc: true
 about: 
   template: jolla
-  image-shape: rectangle 
+  image-shape: rounded
   image-width: 35em
   links:
     - icon: linkedin

@@ -7,7 +7,7 @@ format:
 execute:
   echo:: false
   
-image: profile_pic.png
+image: profile_pic.jpeg
 toc: true
 about: 
   template: jolla
