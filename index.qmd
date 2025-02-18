@@ -122,7 +122,7 @@ at UC Santa Barbara. To interact with my dashboard, click the button below!
 The UCSB Data Science Collaborative aims to make the field of data science 
 accessible to new students and non-majors. During my time as President, I 
 have mentored over 150 members and organized engaging networking events. I have
-also taught workshops in topics such as data visualization cleaning and 
+also taught workshops in topics such as data visualization, cleaning and 
 machine learning, equipped with engaging presentation slides, and practice 
 worksheets using sample datasets.
 
@@ -130,8 +130,8 @@ Being able to support new and ambitious students has been an extremely fulfillin
 experience. Additionally, I have learned so much from by  breaking complex
 concepts into digestible pieces for members. This experience is one that has
 both reinforced my technical expertise and enhanced my interpersonal skills. 
-Our website can be found below where you can find club photos, workshop 
-presentations and worksheets!
+Our website can be found below where you can find club photos along with my 
+workshop presentations and worksheets!
 
 <a href="https://dscollab.github.io/" target="_blank" style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
