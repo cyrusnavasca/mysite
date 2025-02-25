@@ -109,7 +109,7 @@ Recently, I have completed my first piece at the Daily Nexus, which was an
 analysis on the relationship between Rate My Professors ratings and student GPAs
 at UC Santa Barbara. To interact with my dashboard, click the button below!
 
-<a href="https://public.tableau.com/views/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorratings/Dashboard1" target="_blank" style="text-decoration: none;">
+<a href="https://public.tableau.com/app/profile/cyrus.navasca/viz/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorsratings_/Version1" target="_blank" style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;" 
             onmouseover="this.style.backgroundColor='#005bb5';" 
             onmouseout="this.style.backgroundColor='#0073e6';">
@@ -117,8 +117,8 @@ at UC Santa Barbara. To interact with my dashboard, click the button below!
     </button>
 </a>
 
-<img src="rmp_dashboard_image.png" alt="Dashboard Image" 
-     style="width: 75%; height: 100%; border: 2px solid #D3D3D3; border-radius: 8px;">
+<img src="RMP Dashboard 2.png" alt="Dashboard Image" 
+     style="width: 70%; height: 100%;">
 
 ### President @ UCSB Data Science Collaborative
 The UCSB Data Science Collaborative aims to make the field of data science 
