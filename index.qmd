@@ -115,7 +115,7 @@ at UC Santa Barbara. To interact with my dashboard, click the button below!
     </button>
 </a>
 
-<img src="RMP Dashboard 2.png" alt="Dashboard Image" 
+<img src="RMP Dashboard 3.png" alt="Dashboard Image" 
      style="width: 70%; height: 100%;">
 
 ### President @ UCSB Data Science Collaborative
@@ -152,6 +152,30 @@ workshop presentations and worksheets!
   <img src="dscollab_pic_2.jpeg" alt="DSCollab Image 2" style="width: 40%; height: auto; border-radius: 8px;">
   <img src="dscollab_pic1.jpg" alt="DSCollab Image 1" style="width: 40%; height: auto; border-radius: 8px;">
 </div>
+
+### Incoming Research Analytics Asisstant @ META Lab
+I am excited to announce that this Spring, I will be joining META Lab as a 
+Research Analytics Assistant! Here, I will be utilizing my technical skills in 
+data science to uncover meaningful insights in the field of positive psychology.
+The lab's website can be found below.
+
+<a href="https://labs.psych.ucsb.edu/schooler/jonathan/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Visit META Lab
+    </button>
+</a>
+
+<style>
+    button:hover {
+        background-color: #005bb5; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
+
+<img src="Meta Lab Logo.png" alt="META Lab Logo" 
+     style="width: 50%; height: 100%;">
 
 ## 📊 Projects
 ### Predicting Credit Card Default with Neural Networks
