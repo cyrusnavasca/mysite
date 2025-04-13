@@ -12,7 +12,7 @@ Recently, I have completed my first piece at the Daily Nexus, which was an
 analysis on the relationship between Rate My Professors ratings and student GPAs
 at UC Santa Barbara. To interact with my dashboard, click the button below!
 
-<a href="https://public.tableau.com/app/profile/cyrus.navasca/viz/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorsratings_/Version1" target="_blank" style="text-decoration: none;">
+<a href="https://dailynexus.com/2025-04-11/ucsb-students-receive-better-grades-in-courses-with-higher-rate-my-professors-ratings/" target="_blank" style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;" 
             onmouseover="this.style.backgroundColor='#005bb5';" 
             onmouseout="this.style.backgroundColor='#0073e6';">

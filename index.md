@@ -72,7 +72,7 @@ I can be reached at [cyrusnavasca@ucsb.edu](mailto:cyrusnavasca@ucsb.edu), feel
 free to reach out and I am excited to hear from you all!
 
 ## 📝 Resume
-<a href="Cyrus Navasca Resume 2_2025.docx.pdf" download="Cyrus Navasca Resume 2_2025.docx.pdf" 
+<a href="Cyrus Navasca Resume April 2025.docx.pdf" download="Cyrus Navasca Resume April 2025.docx.pdf" 
    style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
                   font-size: 16px; border-radius: 8px; cursor: pointer; 
@@ -89,14 +89,14 @@ free to reach out and I am excited to hear from you all!
     }
 </style>
 
-![](Cyrus Navasca Resume 2_2025.docx.pdf){width=75% height=600px}
+![](Cyrus Navasca Resume April 2025.docx.pdf){width=75% height=600px}
 
 ## 📚 Education 
 University of California, Santa Barbara | Santa Barbara, CA
 
 B.S. in Statistics & Data Science, Minor in Mathematics 
 
-3.77 GPA | Dean's Honor Roll
+3.72 GPA | Dean's Honor Roll
 
 ## 💼 Experiences
 ### Data Analytics Intern @ Daily Nexus 
@@ -109,7 +109,7 @@ Recently, I have completed my first piece at the Daily Nexus, which was an
 analysis on the relationship between Rate My Professors ratings and student GPAs
 at UC Santa Barbara. To interact with my dashboard, click the button below!
 
-<a href="https://public.tableau.com/app/profile/cyrus.navasca/viz/UCSBstudentsreceivebettergradesincourseswithhigherRateMyProfessorsratings_/Version1" target="_blank" style="text-decoration: none;">
+<a href="https://dailynexus.com/2025-04-11/ucsb-students-receive-better-grades-in-courses-with-higher-rate-my-professors-ratings/" target="_blank" style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;" 
             onmouseover="this.style.backgroundColor='#005bb5';" 
             onmouseout="this.style.backgroundColor='#0073e6';">
