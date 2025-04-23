@@ -74,24 +74,7 @@ I can be reached at [cyrusnavasca@ucsb.edu](mailto:cyrusnavasca@ucsb.edu), feel
 free to reach out and I am excited to hear from you all!
 
 ## 📝 Resume
-<a href="Cyrus Navasca Resume Apr-2025.docjbjbjhbjhbjhbjhbjhbjhbx.pdf" download="Cyrus Navasca Resume Apr-2025.docx.pdf" 
-   style="text-decoration: none;">
-    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
-                  font-size: 16px; border-radius: 8px; cursor: pointer; 
-                  transition: 0.3s;">
-        Download My Resume
-    </button>
-</a>
-
-<style>
-    button:hover {
-        background-color: #005bb5; /* Change color on hover */
-        transform: scale(1.05); /* Slight zoom effect */
-        transition: 0.3s; /* Smooth transition */
-    }
-</style>
-
-![](Cyrus Navasca Resume Apr-2025.docx.pdf){width=75% height=600px}
+test
 
 ## 📚 Education 
 University of California, Santa Barbara | Santa Barbara, CA
