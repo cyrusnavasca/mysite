@@ -28,7 +28,6 @@ about:
 
 
 
-
 <header class="social-icons">
   <a href="https://www.linkedin.com/in/cyrusnavasca/" target="_blank">
     <img src="linkedin.png" alt="LinkedIn" class="social-icon" style="width: 50px; height: 50px; margin-right: 20px;">
@@ -75,7 +74,7 @@ I can be reached at [cyrusnavasca@ucsb.edu](mailto:cyrusnavasca@ucsb.edu), feel
 free to reach out and I am excited to hear from you all!
 
 ## 📝 Resume
-<a href="Cyrus Navasca Resume April 2025.docx.pdf" download="Cyrus Navasca Resume April 2025.docx.pdf" 
+<a href="Cyrus Navasca Resume Apr-2025.docjbjbjhbjhbjhbjhbjhbjhbx.pdf" download="Cyrus Navasca Resume Apr-2025.docx.pdf" 
    style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
                   font-size: 16px; border-radius: 8px; cursor: pointer; 
@@ -92,7 +91,7 @@ free to reach out and I am excited to hear from you all!
     }
 </style>
 
-![](Cyrus Navasca Resume April 2025.docx.pdf){width=75% height=600px}
+![](Cyrus Navasca Resume Apr-2025.docx.pdf){width=75% height=600px}
 
 ## 📚 Education 
 University of California, Santa Barbara | Santa Barbara, CA
@@ -158,11 +157,8 @@ workshop presentations and worksheets!
   <img src="dscollab_pic1.jpg" alt="DSCollab Image 1" style="width: 40%; height: auto; border-radius: 8px;">
 </div>
 
-### Incoming Research Analytics Asisstant @ META Lab
-I am excited to announce that this Spring, I will be joining META Lab as a 
-Research Analytics Assistant! Here, I will be utilizing my technical skills in 
-data science to uncover meaningful insights in the field of positive psychology.
-The lab's website can be found below.
+### Research Analytics Asisstant @ META Lab
+In my most recent project with META Lab, I helped analyze data to examine whether reduction in functional fixedness leads to an increase in curiosity. I used statistical tests such as independent t-tests and Cohen's Kappa in my analysis along with various data wrangling methods such as data merging and pivoting to streamline analysis.
 
 <a href="https://labs.psych.ucsb.edu/schooler/jonathan/" target="_blank" style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
