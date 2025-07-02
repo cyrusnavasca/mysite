@@ -107,7 +107,7 @@ much from a great team and to apply my skills!
 
 <img src="elas logo uncrop.png" alt="Elas Logo" 
      style="width: 70%; height: 100%;">
-a
+
 ### Data Analytics Intern @ Daily Nexus 
 Daily Nexus is the official university newspaper for UC Santa Barbara. As a
 Data Analytics Intern, I am responsible for collecting, cleaning and reporting
