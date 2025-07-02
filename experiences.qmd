@@ -2,6 +2,17 @@
 title: "Experiences"
 ---
 
+## Data Science Intern @ Elas
+I am excited to announce that I will be joining Elas as a Data Science Intern
+for Summer 2025! In this position, I will utilize my background in machine 
+learning and data visualization to aid the Product department. Additionally,
+I will gain exposure to agentic AI development. I am very excited to learn so
+much from a great team and to apply my skills!
+
+<img src="elas logo uncrop.png" alt="Elas Logo" 
+     style="width: 30%; height: 40%">
+
+
 ## Data Analytics Intern @ Daily Nexus 
 Daily Nexus is the official university newspaper for UC Santa Barbara. As a
 Data Analytics Intern, I am responsible for collecting, cleaning and reporting
@@ -21,7 +32,7 @@ at UC Santa Barbara. To interact with my dashboard, click the button below!
 </a>
 
 <img src="RMP Dashboard 3.png" alt="Dashboard Image" 
-     style="width: 90%; height: 100%;">
+     style="width: 65%; height: 80%;">
 
 ## President @ UCSB Data Science Collaborative
 The UCSB Data Science Collaborative aims to make the field of data science 
