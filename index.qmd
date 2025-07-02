@@ -97,6 +97,19 @@ B.S. in Statistics & Data Science, Minor in Mathematics
 3.72 GPA | Dean's Honor Roll
 
 ## 💼 Experiences
+
+### Data Science Intern @ Elas
+
+I am excited to announce that I will be joining Elas as a Data Science Intern
+for Summer 2025! In this position, I will utilize my background in machine 
+learning and data visualization to aid the Product department. Additionally,
+I will gain exposure to agentic AI development. I am very excited to learn so
+much from a great team and to apply my skills!
+
+<img src="elas logo uncrop.png" alt="Elas Logo" 
+     style="width: 70%; height: 100%;">
+
+
 ### Data Analytics Intern @ Daily Nexus 
 Daily Nexus is the official university newspaper for UC Santa Barbara. As a
 Data Analytics Intern, I am responsible for collecting, cleaning and reporting
@@ -153,7 +166,7 @@ workshop presentations and worksheets!
   <img src="dscollab_pic1.jpg" alt="DSCollab Image 1" style="width: 40%; height: auto; border-radius: 8px;">
 </div>
 
-### Research Analytics Asisstant @ META Lab
+### Data Analytics Research Asisstant @ META Lab
 In my most recent project with META Lab, I helped analyze data to examine whether reduction in functional fixedness leads to an increase in curiosity. I used statistical tests such as independent t-tests and Cohen's Kappa in my analysis along with various data wrangling methods such as data merging and pivoting to streamline analysis.
 
 <a href="https://labs.psych.ucsb.edu/schooler/jonathan/" target="_blank" style="text-decoration: none;">
