@@ -3,7 +3,7 @@ title: "**Cyrus Navasca**"
 format: 
   html:
     html-math-method: katex
-    keep-md: true
+    #keep-md: true
 execute:
   echo:: false
   
