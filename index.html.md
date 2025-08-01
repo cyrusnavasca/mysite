@@ -24,6 +24,12 @@ about:
       icon: envelope
       href: mailto:cyrusnavasca@ucsb.edu
 ---
+
+
+
+
+
+
 <header class="social-icons">
   <a href="https://www.linkedin.com/in/cyrusnavasca/" target="_blank">
     <img src="linkedin.png" alt="LinkedIn" class="social-icon" style="width: 50px; height: 50px; margin-right: 20px;">
