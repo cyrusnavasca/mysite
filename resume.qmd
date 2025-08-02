@@ -3,17 +3,23 @@ title: "Resume"
 ---
 
 <!-- Download Button -->
-<a href="Cyrus Navasca Resume August 2025.docx.pdf" download 
-   style="text-decoration: none;">
-  <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
-                 font-size: 16px; border-radius: 8px; cursor: pointer; 
-                 transition: 0.3s;">
+<a href="Cyrus%20Navasca%20Resume%20August%202025.docx.pdf" download style="text-decoration: none;">
+  <button style="
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+  ">
     Download My Resume
   </button>
 </a>
 
 <!-- View PDF in Browser -->
-<iframe src="Cyrus Navasca Resume August 2025.docx.pdf" width="75%" height="600px" style="margin-top: 20px; border: 1px solid #ccc;"></iframe>
+<iframe src="Cyrus%20Navasca%20Resume%20August%202025.docx.pdf" width="75%" height="600px" style="margin-top: 20px; border: 1px solid #ccc;"></iframe>
 
 <!-- Inline Hover Style -->
 <style>
@@ -23,3 +29,4 @@ title: "Resume"
     transition: 0.3s;
   }
 </style>
+
