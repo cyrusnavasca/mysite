@@ -2,16 +2,53 @@
 title: "Experiences"
 ---
 
-## Data Science Intern @ Elas
-I am excited to announce that I will be joining Elas as a Data Science Intern
-for Summer 2025! In this position, I will utilize my background in machine 
-learning and data visualization to aid the Product department. Additionally,
-I will gain exposure to agentic AI development. I am very excited to learn so
-much from a great team and to apply my skills!
+## Data Science & AI Intern @ Elas
+As a Data Science & AI Intern so far, I have developed an AI agent that processes natural language queries to conduct predictive modeling and forecasting. I also designed a comprehensive PostgreSQL database schema with a flexible data model to support dynamic field storage, and implemented RESTful APIs to enable CRUD operations to support client sales workflows.
+
+Working in a fast-paced but collaborative startup environment has strengthened my 
+ability to ask meaningful questions, and adapt to new tools in order for me
+contribute effectively to the team. Stay updated with the company's developments
+at their website below!
+
+<a href="https://elasapp.com/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Visit Elas
+    </button>
+</a>
+
+<style>
+    button:hover {
+        background-color: #005bb5; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
 
 <img src="elas logo uncrop.png" alt="Elas Logo" 
-     style="width: 30%; height: 40%">
+     style="width: 30%; height: 50%;">
+     
+## Data Analytics Research Asisstant @ META Lab
+META Lab conducts experimental studies to examine the psychological effects of various states and conditions on traits such as curiosity and personality. I lead statistical analysis in the lab conducting A/B testing, mediation analysis and regressions. I am also responsible
+for rigorous data preprocessing prepare raw data for analysis.
 
+<a href="https://labs.psych.ucsb.edu/schooler/jonathan/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Visit META Lab
+    </button>
+</a>
+
+<style>
+    button:hover {
+        background-color: #005bb5; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
+
+<img src="Meta Lab Logo.png" alt="META Lab Logo" 
+     style="width: 50%; height: 100%;">
 
 ## Data Analytics Intern @ Daily Nexus 
 Daily Nexus is the official university newspaper for UC Santa Barbara. As a
@@ -32,7 +69,7 @@ at UC Santa Barbara. To interact with my dashboard, click the button below!
 </a>
 
 <img src="RMP Dashboard 3.png" alt="Dashboard Image" 
-     style="width: 65%; height: 80%;">
+     style="width: 70%; height: 100%;">
 
 ## President @ UCSB Data Science Collaborative
 The UCSB Data Science Collaborative aims to make the field of data science 
@@ -43,7 +80,7 @@ machine learning, equipped with engaging presentation slides, and practice
 worksheets using sample datasets.
 
 Being able to support new and ambitious students has been an extremely fulfilling
-experience. Additionally, I have learned so much from by  breaking complex
+experience. Additionally, I have learned so much from by breaking complex
 concepts into digestible pieces for members. This experience is one that has
 both reinforced my technical expertise and enhanced my interpersonal skills. 
 Our website can be found below where you can find club photos along with my 
@@ -68,27 +105,3 @@ workshop presentations and worksheets!
   <img src="dscollab_pic_2.jpeg" alt="DSCollab Image 2" style="width: 40%; height: auto; border-radius: 8px;">
   <img src="dscollab_pic1.jpg" alt="DSCollab Image 1" style="width: 40%; height: auto; border-radius: 8px;">
 </div>
-
-## Incoming Research Analytics Asisstant @ META Lab
-I am excited to announce that this Spring, I will be joining META Lab as a 
-Research Analytics Assistant! Here, I will be utilizing my technical skills in 
-data science to uncover meaningful insights in the field of positive psychology.
-The lab's website can be found below.
-
-<a href="https://labs.psych.ucsb.edu/schooler/jonathan/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
-                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
-        Visit META Lab
-    </button>
-</a>
-
-<style>
-    button:hover {
-        background-color: #005bb5; /* Change color on hover */
-        transform: scale(1.05); /* Slight zoom effect */
-        transition: 0.3s; /* Smooth transition */
-    }
-</style>
-
-<img src="Meta Lab Logo.png" alt="META Lab Logo" 
-     style="width: 65%; height: 100%;">

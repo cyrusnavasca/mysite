@@ -27,9 +27,6 @@ about:
 
 
 
-
-
-
 <header class="social-icons">
   <a href="https://www.linkedin.com/in/cyrusnavasca/" target="_blank">
     <img src="linkedin.png" alt="LinkedIn" class="social-icon" style="width: 50px; height: 50px; margin-right: 20px;">
@@ -56,27 +53,23 @@ about:
 
 ## 🤠 About Me
 
-Hi! My name is Cyrus Navasca, and I am a third-year student studying Statistics,
-Data Science and Math at UC Santa Barbara. Through my comprehensive academic involvement, 
-as well as  my experiences as a Data Analytics Intern for Daily Nexus and as President 
-of  the UCSB Data Science Collaborative, I have built a strong foundation of 
-both technical and interpersonal skills that I am excited to expand upon! 
+Hi! My name is Cyrus Navasca and I'm going into my fourth-year at UC Santa Barbara 
+studying Statistics, Data Science and Math.
 
-I have become proficient in Python, R, SQL and Tableau through various projects 
-which made me fall in love with the process of data analysis, visualization and
-machine learning. Outside of work, I like watching football (go Niners!), playing 
-card games, and trying new coffee shops.
+I am proficient in Python, R, SQL and Tableau among other languages with experience in
+predictive modeling, data analysis and agentic AI. I currently work as a Data
+Science & AI Intern at a fast-paced B2B startup at the intersection of AI agents
+and machine learning.
 
-Using data to tackle real-world problems is something that I am extremely
-looking forward to as I continue my journey in this field. My relentless work 
-ethic and energetic personality are qualities that will allow me to succeed, no
-matter the setting, and I am ecstatic to apply myself in a team environment!
+Through various internships and technical experiences, I have grown into a confident problem-solver, an effective collaborator, and a quick adapter in fast-paced settings.
+Outside of work, I love watching football (go Niners!), playing card games and
+trying new coffee shops. 
 
 I can be reached at [cyrusnavasca@ucsb.edu](mailto:cyrusnavasca@ucsb.edu), feel 
 free to reach out and I am excited to hear from you all!
 
 ## 📝 Resume
-<a href="Cyrus Navasca Resume Apr-2025.docx.pdf" download="Cyrus Navasca Resume Apr-2025.docx.pdf" 
+<a href="Cyrus Navasca Resume August 2025.docx.pdf" download="Cyrus Navasca Resume August 2025.docx.pdf" 
    style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
                   font-size: 16px; border-radius: 8px; cursor: pointer; 
@@ -93,28 +86,64 @@ free to reach out and I am excited to hear from you all!
     }
 </style>
 
-![](Cyrus Navasca Resume Apr-2025.docx.pdf){width=75% height=600px}
+![](Cyrus Navasca Resume August 2025.docx.pdf){width=75% height=600px}
 
 ## 📚 Education 
 University of California, Santa Barbara | Santa Barbara, CA
 
 B.S. in Statistics & Data Science, Minor in Mathematics 
 
-3.72 GPA | Dean's Honor Roll
+3.63 GPA | Dean's Honor Roll
 
 ## 💼 Experiences
 
-### Data Science Intern @ Elas
-I am excited to announce that I will be joining Elas as a Data Science Intern
-for Summer 2025! In this position, I will utilize my background in machine 
-learning and data visualization to aid the Product department. Additionally,
-I will gain exposure to agentic AI development. I am very excited to learn so
-much from a great team and to apply my skills!
+### Data Science & AI Intern @ Elas
+As a Data Science & AI Intern so far, I have developed an AI agent that processes natural language queries to conduct predictive modeling and forecasting. I also designed a comprehensive PostgreSQL database schema with a flexible data model to support dynamic field storage, and implemented RESTful APIs to enable CRUD operations to support client sales workflows.
+
+Working in a fast-paced but collaborative startup environment has strengthened my 
+ability to ask meaningful questions, and adapt to new tools in order for me
+contribute effectively to the team. Stay updated with the company's developments
+at their website below!
+
+<a href="https://elasapp.com/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Visit Elas
+    </button>
+</a>
+
+<style>
+    button:hover {
+        background-color: #005bb5; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
 
 <img src="elas logo uncrop.png" alt="Elas Logo" 
-     style="width: 70%; height: 100%;">
+     style="width: 30%; height: 50%;">
      
-TEST WORDS -
+### Data Analytics Research Asisstant @ META Lab
+META Lab conducts experimental studies to examine the psychological effects of various states and conditions on traits such as curiosity and personality. I lead statistical analysis in the lab conducting A/B testing, mediation analysis and regressions. I am also responsible
+for rigorous data preprocessing prepare raw data for analysis.
+
+<a href="https://labs.psych.ucsb.edu/schooler/jonathan/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Visit META Lab
+    </button>
+</a>
+
+<style>
+    button:hover {
+        background-color: #005bb5; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
+
+<img src="Meta Lab Logo.png" alt="META Lab Logo" 
+     style="width: 50%; height: 100%;">
 
 ### Data Analytics Intern @ Daily Nexus 
 Daily Nexus is the official university newspaper for UC Santa Barbara. As a
@@ -146,7 +175,7 @@ machine learning, equipped with engaging presentation slides, and practice
 worksheets using sample datasets.
 
 Being able to support new and ambitious students has been an extremely fulfilling
-experience. Additionally, I have learned so much from by  breaking complex
+experience. Additionally, I have learned so much from by breaking complex
 concepts into digestible pieces for members. This experience is one that has
 both reinforced my technical expertise and enhanced my interpersonal skills. 
 Our website can be found below where you can find club photos along with my 
@@ -172,28 +201,29 @@ workshop presentations and worksheets!
   <img src="dscollab_pic1.jpg" alt="DSCollab Image 1" style="width: 40%; height: auto; border-radius: 8px;">
 </div>
 
-### Data Analytics Research Asisstant @ META Lab
-In my most recent project with META Lab, I helped analyze data to examine whether reduction in functional fixedness leads to an increase in curiosity. I used statistical tests such as independent t-tests and Cohen's Kappa in my analysis along with various data wrangling methods such as data merging and pivoting to streamline analysis.
+## 📊 Projects
 
-<a href="https://labs.psych.ucsb.edu/schooler/jonathan/" target="_blank" style="text-decoration: none;">
+### Detecting Diabetic Retinopathy w/ Computer Vision
+For this project, my team and I trained a ResNet50 CNN to detect diabetic retinopathy, an eye disease that affects millions worldwide, from pateint retina scans. We implemented rigorous data augmentation and regularization to combat overfitting and achieved a 96% accuracy. Moreover, we integrated AWS S3 for efficient data storage and retrieval throughout the training pipeline.
+
+Visit the project's repository below!
+
+<a href="https://github.com/Shashin-Gupta/DSCollaborativeProject" target="_blank" style="text-decoration: none;">
     <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
                   font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
-        Visit META Lab
+        Open Project GitHub
     </button>
 </a>
 
-<style>
-    button:hover {
-        background-color: #005bb5; /* Change color on hover */
-        transform: scale(1.05); /* Slight zoom effect */
-        transition: 0.3s; /* Smooth transition */
-    }
-</style>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="eye_disease_loss.png" alt="Loss/Accuracy over Epochs" style="width: 80%; height: auto; border-radius: 8px;">
+</div>
 
-<img src="Meta Lab Logo.png" alt="META Lab Logo" 
-     style="width: 50%; height: 100%;">
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="eye_scan_predictions.png" alt="Prediction Visualizations" style="width: 80%; height: auto; border-radius: 8px;">
+</div>
 
-## 📊 Projects
+
 ### Predicting Credit Card Default with Neural Networks
 In this project, I utilized PyTorch to construct a neural network which predicts
 credit card default among clients. Using various statistical techniques, model 
@@ -224,6 +254,37 @@ repository below.
     <img src="cc_proj_roc.png" alt="ROC Curve" style="width: 33%; height: auto; border-radius: 8px;">
     <img src="cc_proj_prc.png" alt="PRC Curve" style="width: 33%; height: auto; border-radius: 8px;">
 </figure>
+
+### Predictive Modeling of Heart Disease
+In my introductory machine learning project, I implemented Random Forest and
+Logistic Regression models to predict heart disease among patients. This was my
+first dive into machine learning and taught me how to choose a model,
+conduct basic exploratory data analysis, and evaluate models. 
+
+<a href="https://github.com/cyrusnavasca/heart-disease-ml/blob/main/Heart_Disease_ML_Project.ipynb" style="text-decoration: none;">
+    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
+                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
+        Open Project GitHub
+    </button>
+</a>
+
+<style>
+    button:hover {
+        background-color: #0073e6; /* Change color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+        transition: 0.3s; /* Smooth transition */
+    }
+</style>
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="hd_proj_lr_roc.png" alt="Logistic Regression ROC" style="width: 40%; height: auto; border-radius: 8px;">
+  <img src="hd_proj_lr_prc.png" alt="Logistic Regression PRC" style="width: 40%; height: auto; border-radius: 8px;">
+</div>
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="hd_proj_rf_roc.png" alt="Random Forest ROC" style="width: 40%; height: auto; border-radius: 8px;">
+  <img src="hd_proj_rf_prc.png" alt="Random Forest PRC" style="width: 40%; height: auto; border-radius: 8px;">
+</div>
 
 ### 2022 Diamond Price Analysis
 For the following project, I implemented an in-depth regression analysis to examine
@@ -298,39 +359,6 @@ study.
 </style>
 
 ![](Simulation-Study-ANOVA.pdf){width=75% height=750px}
-
-### Predictive Modeling of Heart Disease
-In my introductory machine learning project, I implemented Random Forest and
-Logistic Regression models to predict heart disease among patients. This was my
-first dive into machine learning and taught me how to choose a model,
-conduct basic exploratory data analysis, and evaluate models. 
-
-<a href="https://github.com/cyrusnavasca/heart-disease-ml/blob/main/Heart_Disease_ML_Project.ipynb" style="text-decoration: none;">
-    <button style="background-color: #0073e6; color: white; border: none; padding: 12px 20px; 
-                  font-size: 16px; border-radius: 8px; cursor: pointer; transition: 0.3s;">
-        Open Project GitHub
-    </button>
-</a>
-
-<style>
-    button:hover {
-        background-color: #0073e6; /* Change color on hover */
-        transform: scale(1.05); /* Slight zoom effect */
-        transition: 0.3s; /* Smooth transition */
-    }
-</style>
-
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="hd_proj_lr_roc.png" alt="Logistic Regression ROC" style="width: 40%; height: auto; border-radius: 8px;">
-  <img src="hd_proj_lr_prc.png" alt="Logistic Regression PRC" style="width: 40%; height: auto; border-radius: 8px;">
-</div>
-
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="hd_proj_rf_roc.png" alt="Random Forest ROC" style="width: 40%; height: auto; border-radius: 8px;">
-  <img src="hd_proj_rf_prc.png" alt="Random Forest PRC" style="width: 40%; height: auto; border-radius: 8px;">
-</div>
-
-
 
 
 
